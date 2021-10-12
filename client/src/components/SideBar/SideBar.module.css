@@ -1,0 +1,14 @@
+.sidebarContainer {
+  position: fixed;
+  background-color: #0b090c;
+  height: 100%;
+  width: 22.6%;
+  display: flex;
+  flex-direction: column;
+}
+
+.channelsContainer {
+  padding: 0 20px;
+  margin-top: 20px;
+  overflow-y: auto;
+}

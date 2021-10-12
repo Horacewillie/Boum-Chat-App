@@ -1,0 +1,27 @@
+.button {
+    margin-left: 8px;
+    margin-right: 4px;
+}
+
+.defaultBtn {
+    background-color: #f19302;
+    color: white;
+    font-size: 12px;
+    border-radius: 4px;
+    text-align: center;
+    height: 33px;
+    padding-top: 8px;
+    cursor: pointer;
+}
+
+.exceptionBtn {
+    color: #000;
+    font-size: 12px;
+    border-radius: 4px;
+    text-align: center;
+    height: 33px;
+    padding-top: 8px;
+    cursor: pointer;
+    background: #f4f4f4;
+    border: 1px solid #000000;
+}

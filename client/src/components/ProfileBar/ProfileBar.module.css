@@ -1,0 +1,29 @@
+.profile {
+  height: 50px;
+  display: flex;
+  padding: 0 20px;
+  min-height: 80px;
+  background: black;
+  align-items: center;
+  justify-content: space-evenly;
+  position: fixed;
+  bottom: 0;
+  width: 22.6%;
+}
+.image {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+.text {
+  color: white;
+  font-family: cursive;
+  font-size: 15px;
+  margin-left: 15px;
+}
+.icon {
+  color: white;
+  font-size: 35px;
+  padding-top: 10px;
+}

@@ -1,0 +1,42 @@
+.modalWrapper{
+    position: fixed;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
+
+.modalContainer{
+    background: #120f13;
+    border-radius: 24px;
+    width: 500px;
+    padding: 25px;
+    position: relative;
+    left: 140px;
+}
+
+.modalTitle{
+    margin-left: 10px;
+    color: white;
+    font-family: cursive;
+}
+.formWrapper{
+    margin-bottom: 15px;
+}
+.btn{
+    cursor: pointer;
+    width: 17%;
+    height: 26px;
+    background: #2f80ed;
+    outline: none;
+    border: none;
+    color: white;
+    border-radius: 6px;
+}
+.buttonContainer{
+    display: flex;
+    justify-content: end;
+    margin-right: 14px;
+    margin-top: 10px;
+}

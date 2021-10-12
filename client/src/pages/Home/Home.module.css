@@ -1,0 +1,14 @@
+.wrapper {
+  height: 100%;
+  display: flex;
+}
+
+.sidebar {
+  flex: 2;
+  height: 100%;
+}
+
+.rightSide {
+  flex: 7;
+  background: #252329;
+}

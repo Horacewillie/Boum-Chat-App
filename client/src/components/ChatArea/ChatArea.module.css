@@ -1,0 +1,5 @@
+.chatArea {
+  overflow: auto;
+  height: 80%;
+  padding: 20px 70px;
+}

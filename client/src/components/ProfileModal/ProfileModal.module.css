@@ -1,0 +1,51 @@
+.container{
+    position: fixed;
+    width: 178px;
+    height: 173px;
+    background: #252329;
+    border: 1px solid #3c393f;
+    box-sizing: border-box;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 5%);
+    border-radius: 12px;
+    bottom: 90px;
+    left: 170px;
+    padding: 10px;
+}
+.text{
+    color: white;
+    font-family: cursive;
+}
+.textD{
+    color: red;
+}
+.iconCon{
+    margin-top: 10px;
+}
+
+.line{
+    border-bottom: 1px solid rgb(60, 57, 63);
+    padding: 2px 0px;
+}
+.profile, .tweet, .logout{
+    display: flex;
+    height: 35px;
+    padding: 10px;
+    margin: 10px 0;
+    justify-content: space-around;
+    align-items: center;
+    border-radius:8px;
+    cursor: pointer;
+
+}
+.profile:hover, .tweet:hover, .logout:hover{
+    background-color: grey;
+}
+.icon{
+    font-size:25px;
+    color: white
+}
+.iconD{
+    font-size: 25px;
+    color: red
+}
+

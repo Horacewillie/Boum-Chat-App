@@ -1,0 +1,29 @@
+.inputContainer {
+    height: 35px;
+    border-radius: 10px;
+    padding-left: 10px;
+    background: #232529;
+    display: flex;
+    align-items: center;
+    margin-left: 7px;
+  }
+  .input{
+      height: 100%;
+      padding-left: 10px;
+      width: 100%;
+      border-radius: 10px;
+      outline: none;
+      border: none;
+   background: #232529;
+      color: white;
+      font-size: 15px;
+  }
+  .searchInput {
+    margin-top: 20px;
+  }
+
+  .iconPlus {
+    color: white;
+  }
+  
+  

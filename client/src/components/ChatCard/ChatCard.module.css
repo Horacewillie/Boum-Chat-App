@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  align-items: center;
+  padding: 20px 0;
+}
+.textContainer {
+  display: flex;
+}
+
+.message {
+  padding-top: 10px;
+  color: white;
+  font-family: cursive;
+}
+.leftP {
+  padding-left: 20px;
+}
+.name {
+  color: gray;
+  font-size: 15px;
+}
+.timeStamp {
+  padding-left: 10px;
+  color: grey;
+  font-size: 13px;
+}

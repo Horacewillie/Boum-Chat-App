@@ -1,0 +1,57 @@
+.channels {
+  display: flex;
+  align-items: center;
+
+  height: 60px;
+  margin: 20px 0;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-left: 0;
+}
+
+.titleContainer {
+  background: #252329;
+  border-radius: 8px;
+  width: 42px;
+  height: 42px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 7px;
+}
+
+.channelTitle {
+  font-family: cursive;
+  color: white;
+}
+.abbrev {
+  color: white;
+}
+
+.channels:hover {
+  background-color: grey;
+}
+.sidebarHeader {
+  z-index: 999;
+  display: flex;
+  align-items: center;
+
+  padding: 0 15px;
+}
+.icon {
+  width: 32px;
+  height: 32px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  color: white;
+}
+.text {
+  color: white;
+  font-family: cursive;
+}
+.iconArrow {
+  font-size: 35px;
+}
